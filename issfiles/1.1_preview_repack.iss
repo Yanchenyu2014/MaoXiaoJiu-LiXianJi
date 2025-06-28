@@ -2,10 +2,10 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "猫小九历险记"
-#define MyAppVersion "1.1 preview"
+#define MyAppVersion "1.2"
 #define MyAppPublisher "TingYu-Team"
 #define MyAppURL "https://yanchenyu2014.github.io/"
-#define MyAppExeName "maoxiaojiu_preview_1.1.exe"
+#define MyAppExeName "maoxiaojiu_preview_1.2.exe"
 
 [Setup]
 ; NOTE: The value of AppId uniquely identifies this application. Do not use the same AppId value in installers for other applications.
